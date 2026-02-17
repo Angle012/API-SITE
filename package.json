@@ -1,0 +1,13 @@
+{
+  "name": "yt-downloader-api-sl",
+  "version": "1.0.0",
+  "description": "YouTube 1080p Downloader API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "yt-search": "^2.10.4"
+  }
+}
